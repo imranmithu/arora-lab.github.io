@@ -6,7 +6,6 @@ group: home
 
 # Welcome to the Arora Lab!
 {: .display-4}
-
 <br>
 We are part of the [Department of Community, Environment & Policy](https://publichealth.arizona.edu/departments/community-environment-policy/), the [Mel and Enid Zuckerman College of Public Health](https://publichealth.arizona.edu/), and the [University of Arizona](https://www.arizona.edu/).
 
